@@ -1,0 +1,21 @@
+{
+  "title": "Supplementary Materials: Database Search Strategies for a Scoping Review of Space Radiation and Human Cancer Risk",
+  "upload_type": "dataset",
+  "description": "Full search strategies (Ovid MEDLINE, Embase, Cochrane CENTRAL, Scopus, Web of Science; searched from inception through September 21, 2026) supporting the PRISMA-ScR scoping review \"Human Cancer Risk from Space Radiation Beyond Low Earth Orbit: Mechanisms, Evidence, and Countermeasures for Deep Space Exploration\", submitted to the Journal of Applied Physiology.",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["space radiation", "galactic cosmic rays", "high-LET", "cancer risk", "scoping review", "search strategy"],
+  "creators": [
+    {"name": "Salman, Samer G.", "affiliation": "Baylor College of Medicine", "orcid": "0009-0007-9897-4071"},
+    {"name": "Waisberg, Ethan", "affiliation": "University of Cambridge", "orcid": "0000-0001-8999-0212"},
+    {"name": "Castañeda, Verónica", "affiliation": "Universidad de los Andes"},
+    {"name": "Phadke, Rohan A.", "affiliation": "Baylor College of Medicine", "orcid": "0000-0002-8611-6711"},
+    {"name": "Sualé, Abudala", "affiliation": "Universidade Eduardo Mondlane"},
+    {"name": "Patton, Schuyler L. R.", "affiliation": "Temple University", "orcid": "0009-0004-6182-8829"},
+    {"name": "Pal, Amita", "affiliation": "Blue Marble Space Institute of Science", "orcid": "0009-0006-2804-5130"},
+    {"name": "Mieczkowski, Jakub", "affiliation": "Medical University of Gdańsk"},
+    {"name": "Hellweg, Christine E.", "affiliation": "German Aerospace Center (DLR)"},
+    {"name": "Pyae, Khin Zar Win", "affiliation": "Guarnieri Research Group"},
+    {"name": "Guarnieri, Joseph W.", "affiliation": "Blue Marble Space Institute of Science", "orcid": "0000-0001-7802-7826"}
+  ]
+}
